@@ -111,7 +111,7 @@ var config = {
 {                     
 			id: 'section7',   
 			title: 'Mountainview',
-			image: './images/mountainview-diversity.png',
+			image: './images/Mountainview-diversity.png',
 			description: "Rick lived in Mountainview while he was in junior high and highschool. His family's home was at the edge of a subdivision on what was previously a homestead. After school, Rick would go snowshoeing and cross-coutry skiing in the woods of a nearby military base",
 			location: {       
 				center: [-149.82, 61.23], 
