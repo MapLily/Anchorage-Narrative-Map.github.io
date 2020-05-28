@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/henry-carter/ck5sf1mv62c501jnu2k5ma97d',
-    accessToken: 'pk.eyJ1IjoiaGVucnktY2FydGVyIiwiYSI6ImNrNXB2NjZnbTIwNTYzZXFsbGJnMjk0NDgifQ.TzYPv73Q9fghm1NJDR2FHg',
+    accessToken: 'pk.eyJ1Ijoic2FyYWhsaWx5IiwiYSI6ImNrNWZqdWhhZDBzdDczbW4zZ2Nkam84MWMifQ.YsQPAnqdhXfqs1LMVe4AdQ',
 	showMarkers: false,
     theme: 'light',
     alignment: 'left',
