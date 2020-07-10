@@ -4,7 +4,7 @@ var config = {
 	showMarkers: false,
     theme: 'light',
     alignment: 'left',
-    title: 'Anchorage: Mapping Urban Change Through Oral History',
+    title: 'Mapping Urban Change in Anchorage Through Oral History',
     subtitle: 'by Sarahlily Stein',
     byline: 'Scroll down to begin',
     footer: 'The images in this map were accessed from the following websites (in order of appearance):https://www.echoak.com/2018/05/texas-vs-alaska-greatest-state-in-the-union/, https://www.stockalpine.com/anchorage-ski-zones, https://www.maps.google.com, http://akonthego.com/blog/alaska-cemeteries-are-resting-places-for-history, https://www.maps.google.com, https://www.travelagewest.com/Hotels/Anchorage/The-Lakefront-Anchorage-p9662133, https://www.adn.com/opinions/2017/11/30/anchorage-may-not-be-as-diverse-as-you-think-or-as-equal-racially/, https://ca.linkedin.com/company/anchorage-downtown-partnership-ltd-, https://www.adn.com/opinions/2019/12/08/a-love-letter-to-downtown-anchorage/.',
